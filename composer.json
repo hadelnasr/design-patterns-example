@@ -1,0 +1,14 @@
+{
+    "name": "hadelnasr/composer-example",
+    "description": "design patterns examples",
+    "authors": [
+        {
+            "name": "haytham adel",
+            "email": "semsem.adel376@gmail.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {"Strategy\\": "strategy-pattern/"}
+    }
+}
